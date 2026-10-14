@@ -1,0 +1,764 @@
+[
+ {
+  "id": "hook",
+  "text": "Ail et échalotes : les planter à l'automne, c'est une bonne idée ?",
+  "file": "audio/vo_hook.wav",
+  "duration": 2.895,
+  "words": [
+   {
+    "text": "Ail",
+    "start": 0.03,
+    "end": 0.213
+   },
+   {
+    "text": "et",
+    "start": 0.213,
+    "end": 0.355
+   },
+   {
+    "text": "échalotes",
+    "start": 0.355,
+    "end": 0.78
+   },
+   {
+    "text": ":",
+    "start": 0.78,
+    "end": 0.882
+   },
+   {
+    "text": "les",
+    "start": 0.882,
+    "end": 1.064
+   },
+   {
+    "text": "planter",
+    "start": 1.064,
+    "end": 1.409
+   },
+   {
+    "text": "à",
+    "start": 1.409,
+    "end": 1.511
+   },
+   {
+    "text": "l'automne,",
+    "start": 1.511,
+    "end": 1.896
+   },
+   {
+    "text": "c'est",
+    "start": 1.896,
+    "end": 2.119
+   },
+   {
+    "text": "une",
+    "start": 2.119,
+    "end": 2.302
+   },
+   {
+    "text": "bonne",
+    "start": 2.302,
+    "end": 2.565
+   },
+   {
+    "text": "idée",
+    "start": 2.565,
+    "end": 2.789
+   },
+   {
+    "text": "?",
+    "start": 2.789,
+    "end": 2.89
+   }
+  ]
+ },
+ {
+  "id": "oui",
+  "text": "Oui, ça peut marcher ! Mais attention à trois pièges.",
+  "file": "audio/vo_oui.wav",
+  "duration": 2.38,
+  "words": [
+   {
+    "text": "Oui,",
+    "start": 0.03,
+    "end": 0.215
+   },
+   {
+    "text": "ça",
+    "start": 0.215,
+    "end": 0.358
+   },
+   {
+    "text": "peut",
+    "start": 0.358,
+    "end": 0.584
+   },
+   {
+    "text": "marcher",
+    "start": 0.584,
+    "end": 0.933
+   },
+   {
+    "text": "!",
+    "start": 0.933,
+    "end": 1.036
+   },
+   {
+    "text": "Mais",
+    "start": 1.036,
+    "end": 1.262
+   },
+   {
+    "text": "attention",
+    "start": 1.262,
+    "end": 1.693
+   },
+   {
+    "text": "à",
+    "start": 1.693,
+    "end": 1.795
+   },
+   {
+    "text": "trois",
+    "start": 1.795,
+    "end": 2.062
+   },
+   {
+    "text": "pièges.",
+    "start": 2.062,
+    "end": 2.37
+   }
+  ]
+ },
+ {
+  "id": "argile",
+  "text": "Piège numéro un : une terre trop argileuse. Elle garde l'eau tout l'hiver, le sol reste détrempé… et les bulbes pourrissent.",
+  "file": "audio/vo_argile.wav",
+  "duration": 6.262,
+  "words": [
+   {
+    "text": "Piège",
+    "start": 0.03,
+    "end": 0.343
+   },
+   {
+    "text": "numéro",
+    "start": 0.343,
+    "end": 0.704
+   },
+   {
+    "text": "un",
+    "start": 0.704,
+    "end": 0.872
+   },
+   {
+    "text": ":",
+    "start": 0.872,
+    "end": 0.992
+   },
+   {
+    "text": "une",
+    "start": 0.992,
+    "end": 1.209
+   },
+   {
+    "text": "terre",
+    "start": 1.209,
+    "end": 1.521
+   },
+   {
+    "text": "trop",
+    "start": 1.521,
+    "end": 1.786
+   },
+   {
+    "text": "argileuse.",
+    "start": 1.786,
+    "end": 2.291
+   },
+   {
+    "text": "Elle",
+    "start": 2.291,
+    "end": 2.556
+   },
+   {
+    "text": "garde",
+    "start": 2.556,
+    "end": 2.868
+   },
+   {
+    "text": "l'eau",
+    "start": 2.868,
+    "end": 3.133
+   },
+   {
+    "text": "tout",
+    "start": 3.133,
+    "end": 3.398
+   },
+   {
+    "text": "l'hiver,",
+    "start": 3.398,
+    "end": 3.758
+   },
+   {
+    "text": "le",
+    "start": 3.758,
+    "end": 3.927
+   },
+   {
+    "text": "sol",
+    "start": 3.927,
+    "end": 4.143
+   },
+   {
+    "text": "reste",
+    "start": 4.143,
+    "end": 4.456
+   },
+   {
+    "text": "détrempé…",
+    "start": 4.456,
+    "end": 4.913
+   },
+   {
+    "text": "et",
+    "start": 4.913,
+    "end": 5.081
+   },
+   {
+    "text": "les",
+    "start": 5.081,
+    "end": 5.298
+   },
+   {
+    "text": "bulbes",
+    "start": 5.298,
+    "end": 5.659
+   },
+   {
+    "text": "pourrissent.",
+    "start": 5.659,
+    "end": 6.26
+   }
+  ]
+ },
+ {
+  "id": "profond",
+  "text": "Piège numéro deux : planter trop profond. Un bulbe trop enfoncé pourrit, lui aussi. Juste sous la surface, pas plus !",
+  "file": "audio/vo_profond.wav",
+  "duration": 5.944,
+  "words": [
+   {
+    "text": "Piège",
+    "start": 0.03,
+    "end": 0.339
+   },
+   {
+    "text": "numéro",
+    "start": 0.339,
+    "end": 0.695
+   },
+   {
+    "text": "deux",
+    "start": 0.695,
+    "end": 0.956
+   },
+   {
+    "text": ":",
+    "start": 0.956,
+    "end": 1.074
+   },
+   {
+    "text": "planter",
+    "start": 1.074,
+    "end": 1.478
+   },
+   {
+    "text": "trop",
+    "start": 1.478,
+    "end": 1.739
+   },
+   {
+    "text": "profond.",
+    "start": 1.739,
+    "end": 2.142
+   },
+   {
+    "text": "Un",
+    "start": 2.142,
+    "end": 2.309
+   },
+   {
+    "text": "bulbe",
+    "start": 2.309,
+    "end": 2.617
+   },
+   {
+    "text": "trop",
+    "start": 2.617,
+    "end": 2.878
+   },
+   {
+    "text": "enfoncé",
+    "start": 2.878,
+    "end": 3.282
+   },
+   {
+    "text": "pourrit,",
+    "start": 3.282,
+    "end": 3.685
+   },
+   {
+    "text": "lui",
+    "start": 3.685,
+    "end": 3.899
+   },
+   {
+    "text": "aussi.",
+    "start": 3.899,
+    "end": 4.207
+   },
+   {
+    "text": "Juste",
+    "start": 4.207,
+    "end": 4.516
+   },
+   {
+    "text": "sous",
+    "start": 4.516,
+    "end": 4.777
+   },
+   {
+    "text": "la",
+    "start": 4.777,
+    "end": 4.943
+   },
+   {
+    "text": "surface,",
+    "start": 4.943,
+    "end": 5.347
+   },
+   {
+    "text": "pas",
+    "start": 5.347,
+    "end": 5.56
+   },
+   {
+    "text": "plus",
+    "start": 5.56,
+    "end": 5.821
+   },
+   {
+    "text": "!",
+    "start": 5.821,
+    "end": 5.94
+   }
+  ]
+ },
+ {
+  "id": "nuisibles",
+  "text": "Piège numéro trois : les nuisibles. Mouche de l'oignon, larves, campagnols… un bulbe qui pourrit, c'est un festin pour eux.",
+  "file": "audio/vo_nuisibles.wav",
+  "duration": 6.119,
+  "words": [
+   {
+    "text": "Piège",
+    "start": 0.03,
+    "end": 0.344
+   },
+   {
+    "text": "numéro",
+    "start": 0.344,
+    "end": 0.706
+   },
+   {
+    "text": "trois",
+    "start": 0.706,
+    "end": 1.019
+   },
+   {
+    "text": ":",
+    "start": 1.019,
+    "end": 1.14
+   },
+   {
+    "text": "les",
+    "start": 1.14,
+    "end": 1.357
+   },
+   {
+    "text": "nuisibles.",
+    "start": 1.357,
+    "end": 1.864
+   },
+   {
+    "text": "Mouche",
+    "start": 1.864,
+    "end": 2.226
+   },
+   {
+    "text": "de",
+    "start": 2.226,
+    "end": 2.394
+   },
+   {
+    "text": "l'oignon,",
+    "start": 2.394,
+    "end": 2.805
+   },
+   {
+    "text": "larves,",
+    "start": 2.805,
+    "end": 3.167
+   },
+   {
+    "text": "campagnols…",
+    "start": 3.167,
+    "end": 3.721
+   },
+   {
+    "text": "un",
+    "start": 3.721,
+    "end": 3.89
+   },
+   {
+    "text": "bulbe",
+    "start": 3.89,
+    "end": 4.204
+   },
+   {
+    "text": "qui",
+    "start": 4.204,
+    "end": 4.421
+   },
+   {
+    "text": "pourrit,",
+    "start": 4.421,
+    "end": 4.831
+   },
+   {
+    "text": "c'est",
+    "start": 4.831,
+    "end": 5.097
+   },
+   {
+    "text": "un",
+    "start": 5.097,
+    "end": 5.266
+   },
+   {
+    "text": "festin",
+    "start": 5.266,
+    "end": 5.627
+   },
+   {
+    "text": "pour",
+    "start": 5.627,
+    "end": 5.893
+   },
+   {
+    "text": "eux.",
+    "start": 5.893,
+    "end": 6.11
+   }
+  ]
+ },
+ {
+  "id": "solution",
+  "text": "La solution ? Les planter au début du printemps, de février à mars, avec des variétés adaptées.",
+  "file": "audio/vo_solution.wav",
+  "duration": 5.066,
+  "words": [
+   {
+    "text": "La",
+    "start": 0.03,
+    "end": 0.203
+   },
+   {
+    "text": "solution",
+    "start": 0.203,
+    "end": 0.674
+   },
+   {
+    "text": "?",
+    "start": 0.674,
+    "end": 0.798
+   },
+   {
+    "text": "Les",
+    "start": 0.798,
+    "end": 1.021
+   },
+   {
+    "text": "planter",
+    "start": 1.021,
+    "end": 1.442
+   },
+   {
+    "text": "au",
+    "start": 1.442,
+    "end": 1.616
+   },
+   {
+    "text": "début",
+    "start": 1.616,
+    "end": 1.938
+   },
+   {
+    "text": "du",
+    "start": 1.938,
+    "end": 2.111
+   },
+   {
+    "text": "printemps,",
+    "start": 2.111,
+    "end": 2.632
+   },
+   {
+    "text": "de",
+    "start": 2.632,
+    "end": 2.805
+   },
+   {
+    "text": "février",
+    "start": 2.805,
+    "end": 3.226
+   },
+   {
+    "text": "à",
+    "start": 3.226,
+    "end": 3.35
+   },
+   {
+    "text": "mars,",
+    "start": 3.35,
+    "end": 3.623
+   },
+   {
+    "text": "avec",
+    "start": 3.623,
+    "end": 3.895
+   },
+   {
+    "text": "des",
+    "start": 3.895,
+    "end": 4.118
+   },
+   {
+    "text": "variétés",
+    "start": 4.118,
+    "end": 4.589
+   },
+   {
+    "text": "adaptées.",
+    "start": 4.589,
+    "end": 5.06
+   }
+  ]
+ },
+ {
+  "id": "ail",
+  "text": "Côté ail : Printanor, ou le rose de Lautrec.",
+  "file": "audio/vo_ail.wav",
+  "duration": 2.388,
+  "words": [
+   {
+    "text": "Côté",
+    "start": 0.03,
+    "end": 0.302
+   },
+   {
+    "text": "ail",
+    "start": 0.302,
+    "end": 0.525
+   },
+   {
+    "text": ":",
+    "start": 0.525,
+    "end": 0.648
+   },
+   {
+    "text": "Printanor,",
+    "start": 0.648,
+    "end": 1.168
+   },
+   {
+    "text": "ou",
+    "start": 1.168,
+    "end": 1.341
+   },
+   {
+    "text": "le",
+    "start": 1.341,
+    "end": 1.514
+   },
+   {
+    "text": "rose",
+    "start": 1.514,
+    "end": 1.786
+   },
+   {
+    "text": "de",
+    "start": 1.786,
+    "end": 1.959
+   },
+   {
+    "text": "Lautrec.",
+    "start": 1.959,
+    "end": 2.38
+   }
+  ]
+ },
+ {
+  "id": "echalote",
+  "text": "Côté échalotes : Jermor, Longor ou Mikor.",
+  "file": "audio/vo_echalote.wav",
+  "duration": 2.202,
+  "words": [
+   {
+    "text": "Côté",
+    "start": 0.03,
+    "end": 0.304
+   },
+   {
+    "text": "échalotes",
+    "start": 0.304,
+    "end": 0.828
+   },
+   {
+    "text": ":",
+    "start": 0.828,
+    "end": 0.953
+   },
+   {
+    "text": "Jermor,",
+    "start": 0.953,
+    "end": 1.327
+   },
+   {
+    "text": "Longor",
+    "start": 1.327,
+    "end": 1.701
+   },
+   {
+    "text": "ou",
+    "start": 1.701,
+    "end": 1.876
+   },
+   {
+    "text": "Mikor.",
+    "start": 1.876,
+    "end": 2.2
+   }
+  ]
+ },
+ {
+  "id": "cta",
+  "text": "Et toi, tu plantes en automne ou au printemps ? Dis-le-moi en commentaire, et abonne-toi pour d'autres astuces potager !",
+  "file": "audio/vo_cta.wav",
+  "duration": 5.518,
+  "words": [
+   {
+    "text": "Et",
+    "start": 0.03,
+    "end": 0.183
+   },
+   {
+    "text": "toi,",
+    "start": 0.183,
+    "end": 0.381
+   },
+   {
+    "text": "tu",
+    "start": 0.381,
+    "end": 0.534
+   },
+   {
+    "text": "plantes",
+    "start": 0.534,
+    "end": 0.907
+   },
+   {
+    "text": "en",
+    "start": 0.907,
+    "end": 1.06
+   },
+   {
+    "text": "automne",
+    "start": 1.06,
+    "end": 1.433
+   },
+   {
+    "text": "ou",
+    "start": 1.433,
+    "end": 1.586
+   },
+   {
+    "text": "au",
+    "start": 1.586,
+    "end": 1.74
+   },
+   {
+    "text": "printemps",
+    "start": 1.74,
+    "end": 2.2
+   },
+   {
+    "text": "?",
+    "start": 2.2,
+    "end": 2.31
+   },
+   {
+    "text": "Dis-le-moi",
+    "start": 2.31,
+    "end": 2.726
+   },
+   {
+    "text": "en",
+    "start": 2.726,
+    "end": 2.88
+   },
+   {
+    "text": "commentaire,",
+    "start": 2.88,
+    "end": 3.428
+   },
+   {
+    "text": "et",
+    "start": 3.428,
+    "end": 3.581
+   },
+   {
+    "text": "abonne-toi",
+    "start": 3.581,
+    "end": 4.041
+   },
+   {
+    "text": "pour",
+    "start": 4.041,
+    "end": 4.282
+   },
+   {
+    "text": "d'autres",
+    "start": 4.282,
+    "end": 4.655
+   },
+   {
+    "text": "astuces",
+    "start": 4.655,
+    "end": 5.028
+   },
+   {
+    "text": "potager",
+    "start": 5.028,
+    "end": 5.4
+   },
+   {
+    "text": "!",
+    "start": 5.4,
+    "end": 5.51
+   }
+  ]
+ }
+]
